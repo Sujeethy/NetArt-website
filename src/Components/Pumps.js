@@ -9,7 +9,7 @@ const Pumps = () => {
       <p style={{margin:"0.5rem"}}>INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF POWER FOR THE NATION. </p>
       
       <div style={{ display: "flex", flexDirection: "column", justifyContent: "center", flexWrap: "wrap", alignItems: "center" }}>
-      <img src={image3} style={{ width: "80vw", height: "auto"}} />
+      <img src={image3} alt="png 3" style={{ width: "80vw", height: "auto"}} />
         <p>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors C.R.I. FLUID SYSTEMS PRODUCTS CATER TO DIVERSE SEGMENTS</p>
         <span style={{ backgroundColor: "red", height: "2px", width: "95vw" }} ></span>
         <p style={{fontWeight:"800"}}>C.R.I. FLUID SYSTEMS PRODUCTS CATER TO DIVERSE SEGMENTS</p>

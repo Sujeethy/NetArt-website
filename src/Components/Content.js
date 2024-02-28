@@ -6,11 +6,11 @@ export default function Content() {
   return (
     <div style={{ display: "flex", flexDirection: "row" }}>
       <div className="div1" style={{ flex: "-3.7 1 0%" }}>
-        <img
-          src={image1}
-          alt="Image 1"
-          style={{ height: "auto", width: "30vw", maxWidth: "100%" }}
-        />
+      <img
+  src={image1}
+  alt="C.R.I. PUMPS National Energy Conservation Award 2018"
+  style={{ height: "auto", width: "30vw", maxWidth: "100%" }}
+/>
       </div>
       <div className="div2" style={{ fontSize: "0.8rem", width: "95vw", flex: "0.7 1 0%" }}>
         <h5 style={{fontWeight:"800"}}>C.R.I. PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 for the 4th time.</h5>
@@ -21,7 +21,7 @@ export default function Content() {
 
         <img
           src={image2}
-          alt="Image 2"
+          alt="C.R.I. PUMPS National Energy Conservation Award 2018-2"
           style={{ height: "auto", width: "60vw" }}
 
         />
